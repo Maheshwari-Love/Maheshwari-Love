@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maheshwari-Love
 - 👀 I’m interested in Web development and also AI ,ML 
-- 🌱 I’m currently learning DSA , Fundamentaals of Web dev 
+- 🌱 I’m currently learning DSA , Fundamentals of Web development 
 
 <!---
 Maheshwari-Love/Maheshwari-Love is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
