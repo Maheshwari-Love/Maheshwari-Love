@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maheshwari-Love
+
 
 <h1 align="center">Hi 👋, I'm Love Maheshwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshwari-love&label=Profile%20views&color=0e75b6&style=flat" alt="maheshwari-love" /> </p>
 - 👀 I’m interested in Web development and also AI ,ML 
+
 - 🌱 I’m currently learning DSA , Fundamentals of Web development 
+
 - 📫 How to reach me **l.maheshwari2008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
