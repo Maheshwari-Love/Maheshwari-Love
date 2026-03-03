@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Love Maheshwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align = "right" margin = "200px" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM4NDc0MzIsIm5iZiI6MTcyMzg0NzEzMiwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE2VDIyMjUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwNmEzZDYyNGIyNjkzZGQ3MDJlMDZlODgyYmIxNzc5OGJkNzNlZDVmZDEwYTVjNTdlMmQxN2I2YmI3N2ZhMmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZW51Hv1GfJums4JpCLXBRkQAY-7pXnhxNfE6WNY8g5A" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshwari-love&label=Profile%20views&color=0e75b6&style=flat" alt="maheshwari-love" /> </p>
 - 👀 I’m interested in Web development, Cloud Computing and AI tools
 
-- 🌱 I’m currently learning DSA , Fundamentals of Web development 
+- 🌱 I’m currently learning DSA , Fundamentals of Agentic AI
 
 - 📫 How to reach me **l.maheshwari2008@gmail.com**
 
